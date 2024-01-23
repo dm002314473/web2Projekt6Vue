@@ -23,6 +23,8 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+https://projekt6web2vuw.onrender.com
+https://github.com/dm002314473/web2Projekt6Vue
 
 1) Interpolation: src/components/TaskList.vue ==> linije 4, 8
 2) Two-way binding: src/components/TaskInput.vue ==> linija 4
